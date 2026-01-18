@@ -1,2 +1,2 @@
 # PictureBed
-Personal picture bed repo
+Repo for blogs' pictures
